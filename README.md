@@ -25,6 +25,7 @@ Energy values are converted to average power to enable comparisons across operat
 ---
 
 ## Project Structure
+
 msc_ship_energy/│
 ├── data/ raw dataset
 ├── src/ analysis and modelling scripts
