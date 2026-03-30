@@ -1,0 +1,6 @@
+metric,value
+Average consumer load (kW),329.69
+Average DG1 load (kW),2328.56
+Average propulsion load (MW),4.316
+Ship1 avg consumer share of DG1,0.091
+Ship2 avg consumer share of DG1,0.181

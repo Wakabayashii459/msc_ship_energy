@@ -1,0 +1,22 @@
+ML Baseline Interpretation
+
+Model:
+- Random Forest Regressor
+
+Target:
+- powerconsumer1_kw
+
+Use case:
+- Short-horizon prediction of auxiliary load from telemetry and time features
+
+Performance:
+- Very high fit, driven partly by lag features and smooth 5-minute telemetry
+
+Operational value:
+- Generator scheduling support
+- Forecasting auxiliary demand
+- Benchmarking expected vs actual load
+- Anomaly detection when load deviates from predicted values
+
+Limitation:
+- Because lagged target features are included, this is best interpreted as an operational forecasting model rather than a purely causal explanatory model.
