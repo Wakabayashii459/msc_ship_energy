@@ -1,7 +1,7 @@
 # MSC Ship Energy Analysis
 
-This project analyses auxiliary electrical consumption from cruise ship telemetry data.  
-The goal is to understand how an onboard auxiliary consumer behaves operationally and how it relates to propulsion demand, generator output, and vessel operating mode.
+This project analyses electrical consumption from cruise ship telemetry data.  
+The goal is to understand how an onboard consumer behaves operationally and how it relates to propulsion demand, generator output, and vessel operating mode.
 
 The work focuses on turning raw 5-minute telemetry into operational insights that could support energy optimisation, generator scheduling, and monitoring.
 
